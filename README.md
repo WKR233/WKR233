@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WKR233
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ComputerNetwork
+- 🌱 I’m currently studying in Cornell
 - 💞️ I’m looking to collaborate on projects of developing applications
-- 📫 How to reach me: mail:29503041@qq.com/github:WKR233
+- 📫 How to reach me: mail:corkri03@gmail.com/github:WKR233
 
 <!---
 WKR233/WKR233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
